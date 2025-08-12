@@ -29,5 +29,7 @@ Category Filters: Easy selection of categories to filter visualizations.
 
 Total Brands and Original Price by Category: Correlation analysis.
 
+
 Dashboard developed using [Power BI]
+
 
